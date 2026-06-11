@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "USBC4125-gct") (type "KiCad") (uri "C:/Users/alexr/OneDrive/Documentos/KiCad/10.0/projects/wireless_wire/usb/USB4135-GF-A_REVA.kicad_sym") (options "") (descr "") (disabled))
+	(lib (name "USB4085-GF-A") (type "KiCad") (uri "${KIPRJMOD}/usb/USB4085-GF-A.kicad_sym") (options "") (descr ""))
+)
